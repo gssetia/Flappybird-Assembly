@@ -1,10 +1,7 @@
 #####################################################################
 #
-# CSC258H5S Winter 2020 Assembly Programming Project
-# University of Toronto Mississauga
+#	AUTHOR:	Gauravdeep Setia
 #
-# Group members:
-# - Student 1: Gauravdeep Setia, 1005467914
 #
 # Bitmap Display Configuration:
 # - Unit width in pixels: 8					     
@@ -13,15 +10,6 @@
 # - Display height in pixels: 256
 # - Base Address for Display: 0x10008000 ($gp)
 #
-# Which milestone is reached in this submission?
-# (See the assignment handout for descriptions of the milestones)
-# - Milestone 4 
-#
-# Which approved additional features have been implemented?
-# (See the assignment handout for the list of additional features)
-# 1. Number 4: Changing the game difficulty: obstacles increase in speed
-#
-# Any additional information that the TA needs to know:
 #
 #####################################################################
 .data
